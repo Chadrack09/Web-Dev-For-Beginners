@@ -21,4 +21,4 @@ gameHasEnded = ((playerOnePoints + playerTwoPoints) == 0) || // three has one
   ((playerTwoPoints + playerThreePoints) == 0) ||  // one has won
   ((playerOnePoints + playerThreePoints) == 0);  // two has won 
 
-console.log("Game has ended: ", gameHasEnded); 
+console.log("Game has ended: ", gameHasEnded);
